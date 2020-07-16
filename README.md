@@ -10,3 +10,7 @@ Feautures waiting for implementation:
 
 八一零二年
 自动化计划
+
+# RHTE 翻修以及扩增计划
+
+Current: Extend GUI based on python and vue.js
